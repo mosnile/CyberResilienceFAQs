@@ -220,7 +220,16 @@ Others
 
 
 ### How is NIST SP800-160 relevant for cyber resilience?
-put answer here
+
+1. NIST SP800-160 is relevant to Cyber Resilience for Cyber-enabled systems, software and hardware, business process or practice agnostics.
+The relevancy is specifically in grouping these cyber-enabled systems, software, hardware, business process or practice agnostics into corresponding groups measured by their level of interoperability.
+The purpose of this is to gain the capability to reduce the impact of the causes for Cyber Resilience efforts including cyber attacks, natural distances and software as well as software malfunction and failure.
+
+Www.Techtarget.com/whatis/definition/agnostic - What is agnostic?
+Www.despair.org/publication/using-cyber-terrain-in-reinforcement-learning-for-penetration-testing - Using Cyber Terrain in Reinforcement Learning for Peneteation Testing
+HTTPS://csiac.org/articles/the-elusive-nature-of-key-cyber-terrain/ - The Elusive Nature of "Key Cyber Terrain"
+
+
 
 For more information see
 [NIST SP800-160](https://csrc.nist.gov/publications/detail/sp/800-160/vol-2/final)
@@ -253,9 +262,12 @@ For more information see
 put answer here
 
 ### How does Cyber Resilience fit with NIST NIST Risk Management Framework (RMF) SP 800-53?
-put answer here
 
-### How does Cyber Resilience fit with Mitre ATT&CK?
+1. Cyber Resilience fits into NIST Risk Management Framework (RMF) SP 800-53 in Cyber-enabled system, software and hardware agnostics. 
+By grouping these cyber-enabled systems as well as into corresponding groups measured by their level of interoperability.
+The purpose of this is to gain the capability to reduce the impact of causes for Cyber Resilience efforts.
+
+###How does Cyber Resilience fit with Mitre ATT&CK?
 put answer here
 
 ### How does Cyber Resilience relate to compliance?
